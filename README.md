@@ -1,6 +1,11 @@
-# SWFSC-Template
+# False killer whale genome analyses
 
-The README provides a description of the repository. The README file will vary greatly depending on the repo contents. 
+This repository contains code supporting analyses presented in Hernandez et al. Specifically, we provide the code used for: 
+1) running RepeatMasker on the genome
+2) Quality control of paired-end libraries for the PSMC and genome-wide heterozygosity
+3) Code to run the PSMC and genome-wide heterozygosity
+
+Note that these scripts were run on NOAA's Sedna bioinformatics cluster, and can be adapted based on one's available computing resources. 
 
 ## License
 
