@@ -1,8 +1,8 @@
 # False killer whale genome analyses
 
 This repository contains code supporting analyses presented in Hernandez et al. Specifically, we provide the code used for: 
-1) running RepeatMasker on the genome in 1_RepeatMask
-2) Quality control of paired-end libraries for the PSMC and genome-wide heterozygosity in 2_QAQC
+1) running RepeatMasker on the genome and indexing both the masked genome and mitogenome in 1_RepeatMask
+2) Quality control of paired-end libraries for the PSMC and genome-wide heterozygosity in 2_QAQC. The same workflow was run for both individuals, so we present the scripts and corresponding text files for z0045928.
 3) Code to run the PSMC and genome-wide heterozygosity analyses in 3_Analyses
 
 Note that these scripts were run on NOAA's Sedna bioinformatics cluster, and can be adapted based on one's available computing resources. 
