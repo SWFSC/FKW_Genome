@@ -1,0 +1,8 @@
+1:n0025803_nuc.bam
+2:n0025805_nuc.bam
+3:n0025807_nuc.bam
+4:n0025809_nuc.bam
+5:n0025811_nuc.bam
+6:n0025813_nuc.bam
+7:n0025815_nuc.bam
+8:n0025817_nuc.bam

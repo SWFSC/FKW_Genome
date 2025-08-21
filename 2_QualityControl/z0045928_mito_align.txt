@@ -1,0 +1,8 @@
+1:n0025803_bbduk_paired_R1.fastq.gz:n0025804_bbduk_paired_R2.fastq.gz
+2:n0025805_bbduk_paired_R1.fastq.gz:n0025806_bbduk_paired_R2.fastq.gz
+3:n0025807_bbduk_paired_R1.fastq.gz:n0025808_bbduk_paired_R2.fastq.gz
+4:n0025809_bbduk_paired_R1.fastq.gz:n0025810_bbduk_paired_R2.fastq.gz
+5:n0025811_bbduk_paired_R1.fastq.gz:n0025812_bbduk_paired_R2.fastq.gz
+6:n0025813_bbduk_paired_R1.fastq.gz:n0025814_bbduk_paired_R2.fastq.gz
+7:n0025815_bbduk_paired_R1.fastq.gz:n0025816_bbduk_paired_R2.fastq.gz
+8:n0025817_bbduk_paired_R1.fastq.gz:n0025818_bbduk_paired_R2.fastq.gz
